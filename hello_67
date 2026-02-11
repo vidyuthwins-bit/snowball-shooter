@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Snowball Shooter</title>
+</head>
+<body>
+  <h1>Snowball Shooter ❄️</h1>
+  <button onclick="shoot()">Shoot</button>
+
+  <script>
+    function shoot() {
+      alert("Snowball fired! 💥");
+    }
+  </script>
+</body>
+</html>
